@@ -48,4 +48,4 @@
 >git tag v1.0.0
 >git tag
 ###### pushing the tag to github
->git push origin v1.0.0
+>git push origin git push origin V1.0.0
