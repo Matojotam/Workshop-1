@@ -22,8 +22,13 @@
 >git commit -m "Added txt files and README.md  
 >git push  
 >
+###### Cloned a repository, then uploaded to my own profile and checked so it pointed towards my profile.
+>git clone https://github.com/Lexicon-Smaland/Hello-World  
+>git remote set-url origin https://github.com/Matojotam/Workshop-1-2  
+>git remote -v
 >
->
+###### Pushed changes in README.md to github.
+>git push  
 >
 >
 >
