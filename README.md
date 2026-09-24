@@ -37,6 +37,10 @@
 >git switch main  
 >git pull
 >git merge Task-1-3
->git push
->
->
+>git push  
+###### Made changes to then revert back from
+>echo "revert this file" >> "Revert this.txt"
+>git commit -a -m "Added file to test reverting"
+###### Used log command to check for version has to then revert to
+>git log --oneline
+>git revert e72f43c
