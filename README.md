@@ -33,9 +33,10 @@
 >git switch -c Task-1-3  
 ###### Add branch to github
 >git push --set-upstream origin Task-1-3  
->
->
->
->
+###### Switched back to Main branch and merged them
+>git switch main  
+>git pull
+>git merge Task-1-3
+>git push
 >
 >
