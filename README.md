@@ -44,3 +44,8 @@
 ###### Used log command to check for version has to then revert it
 >git log --oneline
 >git revert 9495c25
+###### Tagging repository and checking if it works
+>git tag v1.0.0
+>git tag
+###### pushing the tag to github
+>git push origin v1.0.0
