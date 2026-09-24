@@ -29,6 +29,13 @@
 >
 ###### Pushed changes in README.md to github.
 >git push  
+###### Branching from Main
+>git switch -c Task-1-3  
+###### Add branch to github
+>git push --set-upstream origin Task-1-3  
+>
+>
+>
 >
 >
 >
